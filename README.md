@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Sangeun's%20Github&height=200&animation=fadeIn&color=gradient&fontSize=60)
 
-  <h2 align="center">💗</h2>  
+  <h3 align="center"> 박상은의 Github </h3>
+  
+  <h4> 💫 과제 code 및 정리 </br>
+  💫 공모전 자료 및 code </br>
+  💫 개인 공부 </br>
+  </h4>  
+  
+  </br></br>
   
   <h4> ✏️ Study log ✏️</h4>
   
