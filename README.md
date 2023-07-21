@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pse0219)](https://solved.ac/pse0219)
   
-  ![Anurag's GitHub stats](https://github-readme-stats-m6i4.vercel.app/api?username=park-sangeun&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-sangeun&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-sangeun&theme=radical)
   
   <br/>
