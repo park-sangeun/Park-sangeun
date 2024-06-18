@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Sangeun's%20Github&height=200&animation=fadeIn&color=gradient&fontSize=60)
 
-  <h3 align="center"> 박상은의 Github </h3>
+  <h3 align="center"> Sangeun's Github </h3>
   
-  <h4> 💫 과제 및 프로젝트 정리 </br>
-  💫 공모전 자료 모음집 </br>
-  💫 개인 공부 자료집 </br>
+  <h4> 💫 Homework and Project </br>
+  😄 Competition Performance </br>
+  🌱 Research and Development </br>
+  💬 et. al. </br>
   </h4>  
   
   </br></br>
@@ -35,13 +36,13 @@ Here are some ideas to get you started:
   <br/>
   <hr>
   <h4 align="center">💻 Tech stack 💻</h4>
-  
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
   <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
