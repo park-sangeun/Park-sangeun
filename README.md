@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <h4> 💫 Homework and Project </br>
   😄 Competition Performance </br>
   🌱 Research and Development </br>
-  💬 et. al. </br>
+  💬 etc. </br>
   </h4>  
   
   </br></br>
