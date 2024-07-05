@@ -16,26 +16,28 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Sangeun's%20Github&height=200&animation=fadeIn&color=gradient&fontSize=60)
 
-  <h3 align="center"> Sangeun's Github </h3>
-  
-  <h4> 💫 Homework and Project </br>
-  😄 Competition Performance </br>
-  🌱 Research and Development </br>
-  💬 etc. </br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github.+I'm+Sangeun+Park.)](https://git.io/typing-svg)
+
+  <h4> There are... </br></br>
+  :fire: Homework </br>
+  :four_leaf_clover: Project result </br>
+  :eyes: Code used in competitions </br>
+  :seedling: Research and Development </br>
+  :ledger: etc. </br>
   </h4>  
   
   </br></br>
   
-  <h4> ✏️ Study log ✏️</h4>
+  <h4> :mega: Study log :mega:</h4>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pse0219)](https://solved.ac/pse0219)
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pse0219)](https://solved.ac/pse0219/)
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-sangeun&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-sangeun&theme=radical)
   
   <br/>
   <hr>
-  <h4 align="center">💻 Tech stack 💻</h4>
+  <h4 align="center">:speech_balloon: Tech stack :speech_balloon:</h4>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -52,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   
-  <h4 align="center">😊 Follow Me 😊</h4>
+  <h4 align="center">:heartpulse: Follow Me :heartpulse:</h4>
   <a href="https://www.instagram.com/accounts/onetap/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
 
 </div>
