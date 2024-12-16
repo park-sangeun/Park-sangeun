@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome.+I+am+Sangeun+Park.)](https://git.io/typing-svg)
 
-  <h4> :eyes: [Homepage](https://sites.google.com/view/sangeunpark/) :eyes:
+  <h4> :eyes: [Homepage](https://sites.google.com/view/sangeunpark) :eyes:
   </h4>
 
   <h4> There are... </br></br>
