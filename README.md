@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome.+I+am+Sangeun+Park.)](https://git.io/typing-svg)
 
-  <h4> :eyes: Homepage :eyes: </br>
-  [Link](https://sites.google.com/view/sangeunpark)
-  </h4>
+  <h4> :eyes: Homepage :eyes: </h4>
+  <a href="https://sites.google.com/view/sangeunpark" target="_blank"><img src="https://img.shields.io/badge/Homepage-009BD5?style=flat&logo=Homepage&logoColor=white"/></a>
   </br>
   
   <h4> There are... </br></br>
@@ -59,6 +58,8 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-sangeun&theme=radical)
   
   <h4 align="center">:heartpulse: Follow Me :heartpulse:</h4>
-  <a href="https://www.instagram.com/accounts/onetap/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/sangeun-park-737912309/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eun_ddong_ddong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="parksangeun0219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
