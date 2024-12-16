@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome.+I+am+Sangeun+Park.)](https://git.io/typing-svg)
 
-  <h4> :eyes: [Homepage](https://sites.google.com/view/sangeunpark) :eyes:
+  <h4> :eyes: Homepage :eyes: </br>
+  [Link](https://sites.google.com/view/sangeunpark)
   </h4>
-
+  </br>
+  
   <h4> There are... </br></br>
-  :four_leaf_clover: Project result </br>
-  :fire: Code used in competitions </br>
-  :seedling: Research and Development </br>
-  :ledger: etc. </br>
+  :four_leaf_clover: Project result :four_leaf_clover: </br>
+  :fire: Code used in competitions :fire:  </br>
+  :seedling: Research and Development :seedling: </br>
+  :ledger: etc. :ledger:</br>
   </h4>  
   
   </br>
